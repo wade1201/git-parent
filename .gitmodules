@@ -1,0 +1,3 @@
+[submodule "git-child"]
+	path = git-child
+	url = git@github.com:wade1201/git-child.git
